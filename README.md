@@ -1,5 +1,5 @@
 # Other-Projects
-For Research Purpose Only
+For Research Purpose
 
 
 ![Screenshot (466)](https://user-images.githubusercontent.com/103851921/197120407-267268af-4968-4d3f-91ed-5677d9437bfd.png)
